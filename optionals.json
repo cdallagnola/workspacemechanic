@@ -1,0 +1,25 @@
+{
+  type : 'com.google.eclipse.mechanic.UriTaskProviderModel',
+  metadata : {
+    name: 'Repository optionnal configuration',
+    description: "Serveur des configurations optionnelles",
+    contact: 'ced.dall@gmail.com'
+  },  
+  tasks: [
+    'optional/configureJUnit4.epf',
+    'optional/configureTestNg.epf',
+    'optional/disableCodeRecommenders.epf',
+    'optional/disableJavaScriptValidation.epf',
+    'optional/disableValidation.epf',
+    'optional/doNotConfirmExit.epf',
+    'optional/escapeTextWhenPastingInfoStringLiteral.epf',
+    'optional/mercurial-keybindings.epf',
+    'optional/openPOMinXMLeditor.epf',
+    'optional/powerMockAndJava7.epf',
+    'optional/runInBackground.epf',
+    'optional/showLineNumbers.epf',
+    'optional/showWhitespaces.epf',
+    'optional/svnkeybindings.epf',
+	'optional/completionOverride.epf'
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  type : 'com.google.eclipse.mechanic.UriTaskProviderModel',
+  metadata : {
+    name: 'Repository de configuration pour Linux',
+    description: "Serveur dédié aux configuration Linux",
+    contact: 'ced.dall@gmail.com'
+  },  
+  tasks: [
+    'linux/openInTerminal.epf'
+  ]
+}
