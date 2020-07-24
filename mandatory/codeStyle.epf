@@ -1,0 +1,21 @@
+# @title codeStyle
+# @description Code style
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Mar 02 15:53:31 CET 2012
+file_export_version=3.0
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.localSuffixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFinalFieldPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFieldPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentSuffixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFinalFieldSuffixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldSuffixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.localPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFieldSuffixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentPrefixes=
+#/instance/org.eclipse.jdt.ui.keywordthis=false
+#/instance/org.eclipse.jdt.ui.exception.name=ex
+#/instance/org.eclipse.jdt.ui.gettersetter.use.is=true
+#/instance/org.eclipse.jdt.ui.overrideannotation=true

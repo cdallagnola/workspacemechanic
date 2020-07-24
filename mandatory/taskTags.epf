@@ -1,0 +1,12 @@
+# @title taskTags
+# @description Configuration des tags (TODO, REVIEW...) dans les sources
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon Nov 07 17:23:37 CET 2011
+file_export_version=3.0
+#/default/org.eclipse.wst.sse.core/task-tags/task-tag-last-tab=0
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.taskTags=TODO,FIXME,REVIEW
+/instance/org.eclipse.wst.sse.core/task-tags/taskPriorities=1,2
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.taskCaseSensitive=disabled
+

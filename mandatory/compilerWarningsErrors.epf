@@ -1,0 +1,36 @@
+# @title compilerWarningsErrors
+# @description Compiler warnings and errors
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Mar 02 16:35:26 CET 2012
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedObjectAllocation=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.staticAccessReceiver=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.redundantNullCheck=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.methodWithConstructorName=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.nullReference=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.noEffectAssignment=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.possibleAccidentalBooleanAssignment=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.localVariableHiding=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.fieldHiding=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.fatalOptionalError=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingSynchronizedOnInheritedMethod=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingDeprecatedAnnotation=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.reportMethodCanBeStatic=ignore
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.potentialNullReference=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.indirectStaticAccess=ignore
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.syntheticAccessEmulation=ignore
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.typeParameterHiding=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.parameterAssignment=ignore
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.nonExternalizedStringLiteral=ignore
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.redundantSuperinterface=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.comparingIdentical=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.incompatibleNonInheritedInterfaceMethod=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.undocumentedEmptyBlock=ignore
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unqualifiedFieldAccess=ignore
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingHashCodeMethod=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.reportMethodCanBePotentiallyStatic=ignore
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.deadCode=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingSerialVersion=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unnecessaryTypeCheck=warning
+file_export_version=3.0

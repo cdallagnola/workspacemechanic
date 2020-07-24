@@ -1,0 +1,32 @@
+# @title mercurialConfiguration
+# @description Configuration of Mercurial
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Mar 02 10:57:46 CET 2012
+file_export_version=3.0
+/instance/com.vectrace.MercurialEclipse/hg.useMercurialUsernameForCommit=true
+/instance/com.vectrace.MercurialEclipse/hg.defaulRebaseKeepBranches=false
+/instance/com.vectrace.MercurialEclipse/hg.merge.useExternal=false
+/instance/com.vectrace.MercurialEclipse/hg.pushNewBranch=true
+/instance/com.vectrace.MercurialEclipse/hg.labeldecorator.colors=true
+/instance/com.vectrace.MercurialEclipse/hg.autoshare=true
+/instance/com.vectrace.MercurialEclipse/hg.batchsize.commitmessage=10
+/instance/com.vectrace.MercurialEclipse/hg.console.width=80
+/instance/com.vectrace.MercurialEclipse/hg.console.limitOutput=false
+/instance/com.vectrace.MercurialEclipse/hg.console.showOnMessage=false
+/instance/com.vectrace.MercurialEclipse/hg.console.showOnStartup=false
+/instance/com.vectrace.MercurialEclipse/hg.console.debug=false
+/instance/com.vectrace.MercurialEclipse/hg.console.debug.time=false
+/instance/com.vectrace.MercurialEclipse/hg.batchsize.log=500
+/instance/com.vectrace.MercurialEclipse/hg.batchsize.status=10
+/instance/com.vectrace.MercurialEclipse/hg.performance.enableFullGlog=true
+/instance/com.vectrace.MercurialEclipse/enableSubrepoSupport=false
+/instance/com.vectrace.MercurialEclipse/hg.computeFullRemoteFileStatus=true
+/instance/com.vectrace.MercurialEclipse/hg.performance.fileShowsChangeset=false
+/instance/com.vectrace.MercurialEclipse/hg.performance.fileShowsChangesetIncoming=false
+/instance/com.vectrace.MercurialEclipse/hg.syncOnlyCurrentBranch=true
+/instance/com.vectrace.MercurialEclipse/hg.syncEnableLocalChangesets=false
+/instance/com.vectrace.MercurialEclipse/hg.syncAllProjectsInRepository=true
+/instance/com.vectrace.MercurialEclipse/hg.dialog.commit.preSelectUntracked=true
+

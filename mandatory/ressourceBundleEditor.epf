@@ -1,0 +1,41 @@
+# @title RessourceBundleEditor
+# @description Configuration pour le plugin RessourceBundle Editor
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Sep 29 14:32:05 CEST 2017
+/bundle_defaults/com.essiembre.eclipse.rbe/groupKeys=true
+/instance/com.essiembre.eclipse.rbe/reportSimilarValues=true
+/bundle_defaults/com.essiembre.eclipse.rbe/keyTreeHierarchical=true
+/bundle_defaults/com.essiembre.eclipse.rbe/spacesAroundEqualSigns=true
+/bundle_defaults/com.essiembre.eclipse.rbe/showGenerator=true
+/bundle_defaults/com.essiembre.eclipse.rbe/newLineType=0
+/bundle_defaults/com.essiembre.eclipse.rbe/reportSimilarValuesWordCompare=true
+/instance/com.essiembre.eclipse.rbe/convertEncodedToUnicode=false
+/bundle_defaults/com.essiembre.eclipse.rbe/detectMissingValues=true
+/bundle_defaults/com.essiembre.eclipse.rbe/keyGroupSeparator=.
+/instance/com.essiembre.eclipse.rbe/minHeight=100
+/instance/com.essiembre.eclipse.rbe/keyTreeHierarchical=false
+/bundle_defaults/com.essiembre.eclipse.rbe/noTreeInEditor=false
+/bundle_defaults/com.essiembre.eclipse.rbe/keyTreeExpanded=true
+/bundle_defaults/com.essiembre.eclipse.rbe/convertEncodedToUnicode=true
+/instance/com.essiembre.eclipse.rbe/convertUnicodeToEncoded=false
+/bundle_defaults/com.essiembre.eclipse.rbe/groupAlignEqualSigns=true
+/bundle_defaults/com.essiembre.eclipse.rbe/loadOnlyFragmentResources=false
+/bundle_defaults/com.essiembre.eclipse.rbe/alignEqualSigns=true
+/bundle_defaults/com.essiembre.eclipse.rbe/reportSimilarValuesPrecision=0.75
+/instance/com.essiembre.eclipse.rbe/groupKeys=false
+/bundle_defaults/com.essiembre.eclipse.rbe/minHeight=80
+/bundle_defaults/com.essiembre.eclipse.rbe/fieldTabInserts=false
+/bundle_defaults/com.essiembre.eclipse.rbe/groupLevelDeep=1
+/bundle_defaults/com.essiembre.eclipse.rbe/convertUnicodeToEncodedUppercase=true
+/instance/com.essiembre.eclipse.rbe/keyTreeExpanded=false
+/bundle_defaults/com.essiembre.eclipse.rbe/keepEmptyFields=false
+/bundle_defaults/com.essiembre.eclipse.rbe/groupLineBreaks=1
+/bundle_defaults/com.essiembre.eclipse.rbe/convertUnicodeToEncoded=true
+/bundle_defaults/com.essiembre.eclipse.rbe/supportFragments=true
+/bundle_defaults/com.essiembre.eclipse.rbe/reportDuplicateValues=true
+/bundle_defaults/com.essiembre.eclipse.rbe/wrapCharLimit=80
+/bundle_defaults/com.essiembre.eclipse.rbe/wrapIndentSpaces=8
+/instance/com.essiembre.eclipse.rbe/alignEqualSigns=false
+file_export_version=3.0

@@ -1,0 +1,8 @@
+# @title configureMoreUnitForJunit4
+# @description Configure MoreUnit for Junit4
+# @audit_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Dec 08 19:05:34 CET 2011
+file_export_version=3.0
+/instance/org.moreunit/org.moreunit.test_type=junit4

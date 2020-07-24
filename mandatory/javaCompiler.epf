@@ -1,0 +1,26 @@
+# @title javaCompiler
+# @description Java compiler
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Mar 02 16:26:14 CET 2012
+file_export_version=3.0
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.6
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.unusedLocal=preserve
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.6
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.debug.lineNumber=generate
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.debug.sourceFile=generate
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.6
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.debug.localVariable=generate
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.builder.resourceCopyExclusionFilter=*.launch
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_STRICTLY_COMPATIBLE_JRE_NOT_AVAILABLE=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpath.multipleOutputLocations=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.incompatibleJDKLevel=ignore
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.incompleteClasspath=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.builder.invalidClasspath=abort
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.builder.duplicateResourceTask=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.builder.recreateModifiedClassFileInOutputFolder=ignore
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpath.exclusionPatterns=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.builder.cleanOutputFolder=clean
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.maxProblemPerUnit=100
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.circularClasspath=error

@@ -1,0 +1,8 @@
+# @title OPTIONAL - PowerMock and Java7
+# @description OPTIONAL - Configure PowerMock for Java7
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Jun 28 11:22:42 CEST 2012
+/instance/org.testng.eclipse/jvmArgs=-XX\:-UseSplitVerifier
+file_export_version=3.0

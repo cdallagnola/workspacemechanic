@@ -1,0 +1,8 @@
+# @title [OPTIONAL] Java-Escape-Pasted-Strings
+# @description Escape strings when pasted into a string literal
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Wed Jul 25 14:23:38 CEST 2012
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/escapeStrings=true

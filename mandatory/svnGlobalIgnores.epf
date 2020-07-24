@@ -1,0 +1,8 @@
+# @title svnGlobalIgnores
+# @description SVN Global ignores
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon Nov 07 15:24:27 CET 2011
+file_export_version=3.0
+/instance/org.eclipse.team.core/ignore_files=.classpath\ntrue\n.pmd\ntrue\n.pmdruleset\ntrue\n.project\ntrue\n.settings\ntrue\ntarget\ntrue\ntest-output\ntrue\n.springBeans\ntrue\n.hprof\ntrue\nMETA-INF\ntrue\n

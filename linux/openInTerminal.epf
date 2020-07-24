@@ -1,0 +1,8 @@
+# @title Open terminal on navigation
+# @description Open terminal on navigation
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon Mar 13 10:40:35 CET 2017
+file_export_version=3.0
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<keyBinding contextId\="org.eclipse.ui.serverViewScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+CTRL+S"/>\n<keyBinding commandId\="org.tigris.subversion.subclipse.ui.synchronize" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+CTRL+S"/>\n<keyBinding commandId\="org.eclipse.ui.navigate.showIn" contextId\="org.eclipse.mylyn.tasks.ui.navigation" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+T">\n<parameter id\="org.eclipse.ui.navigate.showIn.targetId" value\="org.eclipse.tm.terminal.view.ui.TerminalsView"/>\n</keyBinding>\n</org.eclipse.ui.commands>

@@ -1,0 +1,18 @@
+# @title workspaceConfiguration
+# @description Workspace configuration
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Aug 30 14:41:22 CEST 2011
+file_export_version=3.0
+/configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=true
+/configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
+/configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/instance/org.eclipse.ui/showIntro=false
+/instance/org.eclipse.ui.ide/tipsAndTricks=true
+/instance/org.eclipse.ui.ide/IMPORT_FILES_AND_FOLDERS_MODE=prompt
+/instance/org.eclipse.ui.ide/IMPORT_FILES_AND_FOLDERS_VIRTUAL_FOLDER_MODE=prompt
+/instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
+/instance/org.eclipse.ui.workbench/PLUGINS_NOT_ACTIVATED_ON_STARTUP=com.atlassian.connector.eclipse.branding.ui;com.atlassian.connector.eclipse.monitor.ui;org.eclipse.m2e.discovery;
+

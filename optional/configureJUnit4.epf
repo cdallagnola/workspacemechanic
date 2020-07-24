@@ -1,0 +1,8 @@
+# @title MoreUnit Junit4
+# @description MoreUnit using Junit 4 framework
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Mar 14 10:07:53 CET 2017
+file_export_version=3.0
+/instance/org.moreunit/org.moreunit.test_type=junit4

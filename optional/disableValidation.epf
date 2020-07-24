@@ -1,0 +1,9 @@
+# @title OPTIONAL - Disable validation
+# @description OPTIONAL - Disable Validation
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Sep 29 14:15:38 CEST 2011
+file_export_version=3.0
+/instance/org.eclipse.wst.validation/override=false
+/instance/org.eclipse.wst.validation/suspend=true

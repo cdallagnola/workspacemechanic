@@ -1,0 +1,10 @@
+# @title showPrintMargin
+# @description Show print margin
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Mar 02 11:12:19 CET 2012
+file_export_version=3.0
+/instance/org.eclipse.ui.editors/printMargin=true
+/instance/org.eclipse.ui.editors/printMarginColumn=110
+

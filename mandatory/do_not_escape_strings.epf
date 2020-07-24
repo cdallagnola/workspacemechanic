@@ -1,0 +1,8 @@
+# @title Do not escape strings
+# @description Do not escape strings
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Jan 30 09:33:31 CET 2018
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/escapeStrings=false

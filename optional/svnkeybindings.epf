@@ -1,0 +1,8 @@
+# @title OPTIONAL - SVNSynchronizeViewKeyBinding
+# @description Availability for Synchronize with SVN Respository key binding
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Wed Mar 07 10:20:33 CET 2012
+file_export_version=3.0
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<keyBinding contextId\="org.eclipse.ui.serverViewScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+CTRL+S"/>\n<keyBinding contextId\="org.eclipse.ui.serverViewScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+CTRL+S"/>\n<keyBinding commandId\="org.tigris.subversion.subclipse.ui.synchronize" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+CTRL+S"/>\n</org.eclipse.ui.commands>

@@ -1,0 +1,15 @@
+# @title configureM2E
+# @description Configure M2E
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Mar 02 11:51:37 CET 2012
+file_export_version=3.0
+/instance/org.eclipse.m2e.core/eclipse.m2.offline=false
+/instance/org.eclipse.m2e.core/eclipse.m2.globalUpdatePolicy=true
+/instance/org.eclipse.m2e.core/eclipse.m2.debugOutput=false
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadSources=true
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadJavadoc=false
+/instance/org.eclipse.m2e.core/eclipse.m2.updateIndexes=false
+/instance/org.eclipse.m2e.core/eclipse.m2.updateProjects=false
+/instance/org.eclipse.m2e.core/eclipse.m2.hideFoldersOfNestedProjects=false

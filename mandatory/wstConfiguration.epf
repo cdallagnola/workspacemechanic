@@ -1,0 +1,39 @@
+# @title wstConfiguration
+# @description WST Configuration
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Aug 30 14:41:22 CEST 2011
+file_export_version=3.0
+/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.selectedElement=Torg.eclipse.wst.sse.ui
+/instance/org.eclipse.wst.validation/vals/org.eclipse.jst.jsp.core.JSPBatchValidator/groups=0107include01113projectNature131org.eclipse.jdt.core.javanature0107include110111contentType134org.eclipse.jst.jsp.core.jspsourceT111contentType142org.eclipse.jst.jsp.core.jspfragmentsourceT111contentType134org.eclipse.jst.jsp.core.tagsourceT07fileext03jspF07fileext04jspfF07fileext03jsfF07fileext03tagF07fileext04tagfF07fileext03jsvF07fileext04jtplF0107exclude0104file07target/F01
+/instance/org.eclipse.wst.sse.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.wst.sse.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.wst.html.core/outputCodeset=UTF-8
+/instance/org.eclipse.wst.css.core/outputCodeset=UTF-8
+/instance/org.eclipse.wst.validation/USER_MANUAL_PREFERENCE=enabledManualValidatorListorg.eclipse.jst.j2ee.internal.validation.UIApplicationClientValidator;org.eclipse.jst.j2ee.internal.validation.UIEarValidator;org.eclipse.jst.j2ee.internal.jca.validation.UIConnectorValidator;org.eclipse.jst.j2ee.internal.web.validation.UIWarValidator;org.eclipse.jst.j2ee.internal.ejb.workbench.validation.UIEjbValidator;org.eclipse.jst.j2ee.internal.classpathdep.ClasspathDependencyValidator;org.eclipse.wst.wsi.ui.internal.WSIMessageValidator;
+/instance/org.eclipse.wst.validation/saveAuto=false
+/instance/org.eclipse.wst.jsdt.ui/proposalOrderMigrated=true
+/instance/org.eclipse.wst.validation/USER_PREFERENCE=saveAutomaticallyfalseprojectsCanOverridetruedisableAllValidationfalseversion1.2.300.v201104190230
+/instance/org.eclipse.wst.ws.service.policy/org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsissbp.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
+/instance/org.eclipse.wst.validation/DELEGATES_PREFERENCE=delegateValidatorList
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.editor.tab.width=
+/instance/org.eclipse.wst.jsdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.formatterprofiles.version=11
+/instance/org.eclipse.wst.sse.ui/hoverModifiers=combinationHover|true|0;problemHover|false|0;documentationHover|false|0;annotationHover|true|Shift;
+/instance/org.eclipse.wst.validation/vals/org.eclipse.jst.jsp.core.JSPContentValidator/groups=0107include09111contentType134org.eclipse.jst.jsp.core.jspsourceT111contentType142org.eclipse.jst.jsp.core.jspfragmentsourceT07fileext03jspF07fileext04jspfF07fileext03jsfF07fileext03tagF07fileext04tagfF07fileext03jsvF07fileext04jtplF0107exclude0104file07target/F01
+/instance/org.eclipse.wst.validation/vf.version=3
+/instance/org.eclipse.wst.validation/confirmDialog=true
+/instance/org.eclipse.wst.validation/USER_BUILD_PREFERENCE=enabledBuildValidatorListorg.eclipse.jst.j2ee.internal.validation.UIApplicationClientValidator;org.eclipse.jst.j2ee.internal.validation.UIEarValidator;org.eclipse.jst.j2ee.internal.jca.validation.UIConnectorValidator;org.eclipse.jst.j2ee.internal.web.validation.UIWarValidator;org.eclipse.jst.j2ee.internal.ejb.workbench.validation.UIEjbValidator;org.eclipse.jst.j2ee.internal.classpathdep.ClasspathDependencyValidator;org.eclipse.wst.wsi.ui.internal.WSIMessageValidator;
+/instance/org.eclipse.wst.jsdt.ui/tabWidthPropagated=true
+/instance/org.eclipse.wst.jsdt.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.wst.validation/stateTS=0
+/instance/org.eclipse.wst.ws.service.policy/org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsiap.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
+/instance/org.eclipse.wst.validation/vals/org.eclipse.wst.xml.core.xml/groups=0107include05111contentType128org.eclipse.core.runtime.xmlT111contentType134org.eclipse.wst.xml.core.xmlsourceT111contentType134org.eclipse.wst.xml.core.xslsourceT111contentType134org.eclipse.jst.jsp.core.tldsourceT07fileext03xmlF0107exclude06113projectNature134org.eclipse.jst.j2ee.ejb.EJBNature113projectNature130org.eclipse.jst.j2ee.EARNature04file08.projectT0104file110.classpathT0104file110.settings/T0204file07target/F01
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.javadoclocations.migrated=true
+/instance/org.eclipse.wst.validation/vals/org.eclipse.wst.html.ui.HTMLValidator/groups=0107include06111contentType136org.eclipse.wst.html.core.htmlsourceT07fileext04htmlF07fileext05xhtmlF07fileext03htmF07fileext04htplF07fileext03wmlF0107exclude0104file07target/F01
+/instance/org.eclipse.wst.jsdt.ui/fontPropagated=true
+/instance/org.eclipse.wst.validation/vals/org.eclipse.wst.jsdt.web.core.JsBatchValidator/groups=0107include01113projectNature134org.eclipse.wst.jsdt.core.jsNature0107include11007fileext04htmlF07fileext05xhtmlF07fileext03htmF07fileext04htplF07fileext03jspF07fileext03jsfF07fileext03jsvF07fileext04jtplF111contentType136org.eclipse.wst.html.core.htmlsourceT111contentType134org.eclipse.jst.jsp.core.jspsourceT0107exclude0104file07target/F01
+/instance/org.eclipse.wst.validation/vals/org.eclipse.jst.jsp.core.JSPBatchValidator/groups=0107include01113projectNature131org.eclipse.jdt.core.javanature0107include110111contentType134org.eclipse.jst.jsp.core.jspsourceT111contentType142org.eclipse.jst.jsp.core.jspfragmentsourceT111contentType134org.eclipse.jst.jsp.core.tagsourceT07fileext03jspF07fileext04jspfF07fileext03jsfF07fileext03tagF07fileext04tagfF07fileext03jsvF07fileext04jtplF0107exclude0104file07target/F01
+/instance/org.eclipse.wst.server.core/module-start-timeout=300000
+/instance/org.eclipse.jst.jsp.ui/supplyJSPSearchResultsToJavaSearch=false

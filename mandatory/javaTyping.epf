@@ -1,0 +1,20 @@
+# @title javaTyping
+# @description Java editor on the fly configuration
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Mar 02 16:44:39 CET 2012
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/closeStrings=true
+/instance/org.eclipse.jdt.ui/closeBrackets=true
+/instance/org.eclipse.jdt.ui/closeBraces=true
+/instance/org.eclipse.jdt.ui/closeJavaDocs=true
+/instance/org.eclipse.jdt.ui/addJavaDocTags=true
+/instance/org.eclipse.jdt.ui/smart_semicolon=true
+/instance/org.eclipse.jdt.ui/smart_opening_brace=true
+/instance/org.eclipse.jdt.ui/smartIndentAfterNewline=true
+/instance/org.eclipse.jdt.ui/smart_tab=true
+/instance/org.eclipse.jdt.ui/smartPaste=true
+/instance/org.eclipse.jdt.ui/importsOnPaste=true
+/instance/org.eclipse.jdt.ui/wrapStrings=true
+

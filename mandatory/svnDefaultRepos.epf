@@ -1,0 +1,12 @@
+# @title svnDefaultRepos
+# @description SVN default repositories
+# @task_type RECONCILE
+#Wed Aug 31 10:35:21 CEST 2011
+file_export_version=3.0
+/instance/org.eclipse.team.svn.core/repositories/50b8b2c838ca00101040a965b37093e5=50b8b2c838ca00101040a965b37093e5;https\://scarab-scm/svn/iv4;https\://scarab-scm/svn/iv4;branches;tags;trunk;true;;;;false;;;0
+/instance/org.eclipse.team.svn.core/repositories/b098c818acd30010190ad09db7073eef=b098c818acd30010190ad09db7073eef;https\://scarab-scm/svn/vtracer;https\://scarab-scm/svn/vtracer;branches;tags;trunk;true;;;;false;<https\://scarab-scm\:443> SVN;;0
+@org.eclipse.team.svn.core=0.7.9.I20110724-1700
+/instance/org.eclipse.team.svn.core/repositories/607729bf38ca00101040a965b37093e5=607729bf38ca00101040a965b37093e5;https\://scarab-scm/svn/ivtracer;https\://scarab-scm/svn/ivtracer;branches;tags;trunk;true;;;;false;;;0
+/instance/org.eclipse.team.svn.core/repositories/e03f73af38ca00101040a965b37093e5=e03f73af38ca00101040a965b37093e5;https\://scarab-scm/svn/power;https\://scarab-scm/svn/power;branches;tags;trunk;true;;;;false;;;0
+\!/=
+/instance/org.eclipse.team.svn.core/repositories/f0439ecf38ca00101040a965b37093e5=f0439ecf38ca00101040a965b37093e5;https\://scarab-scm/svn/intern;https\://scarab-scm/svn/intern;branches;tags;trunk;true;;;;false;;;0

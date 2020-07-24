@@ -1,0 +1,10 @@
+# @title moreUnitConfiguration
+# @description Configure MoreUnit
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Dec 08 19:05:34 CET 2011
+file_export_version=3.0
+/instance/org.moreunit/org.moreunit.prefixes=
+/instance/org.moreunit/org.moreunit.junit_path=src/test/java
+/instance/org.moreunit/org.moreunit.flexiblenaming=true

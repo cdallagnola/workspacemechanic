@@ -1,0 +1,8 @@
+# @title Spaces in json
+# @description Spaces in json
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Wed Jun 21 12:36:07 CEST 2017
+file_export_version=3.0
+/instance/org.eclipse.wst.json.core/indentationChar=space

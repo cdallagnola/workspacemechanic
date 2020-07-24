@@ -1,0 +1,8 @@
+# @title Html formatter
+# @description coupure à 200 chars au lieu de 72 par défaut
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Mar 15 11:45:10 CET 2013
+/instance/org.eclipse.wst.html.core/lineWidth=200
+file_export_version=3.0

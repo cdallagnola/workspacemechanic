@@ -1,0 +1,47 @@
+# @title subclipseConfiguration
+# @description Configuration of Subclipse
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Mar 02 09:30:51 CET 2012
+file_export_version=3.0
+/instance/org.tigris.subversion.subclipse.ui/pref_show_compare_revision_in_dialog=false
+/instance/org.tigris.subversion.subclipse.ui/pref_remove_unadded_resources_on_replace=true
+/instance/org.tigris.subversion.subclipse.ui/pref_fetch_change_path_on_Demand=false
+/instance/org.tigris.subversion.subclipse.ui/pref_show_tags_in_remote=false
+/instance/org.tigris.subversion.subclipse.core/show_out_of_date_folders=false
+/instance/org.tigris.subversion.subclipse.ui/pref_use_javahl_commit_hack=true
+/instance/org.tigris.subversion.subclipse.core/share_nested_projects=true
+/instance/org.tigris.subversion.subclipse.ui/pref_commit_to_tags_path_without_warning=false
+/instance/org.tigris.subversion.subclipse.ui/pref_log_entries_to_fetch=25
+/instance/org.tigris.subversion.subclipse.ui/pref_use_quickdiffannotate=prompt
+/instance/org.tigris.subversion.subclipse.ui/pref_commit_with_errors=prompt
+/instance/org.tigris.subversion.subclipse.ui/pref_commit_with_warning=always
+/instance/org.tigris.subversion.subclipse.ui/pref_svninterface=
+/instance/org.tigris.subversion.subclipse.ui/pref_svnconfigdir=
+/instance/org.tigris.subversion.subclipse.ui/pref_console_limit_output=false
+/instance/org.tigris.subversion.subclipse.ui/pref_console_show_on_message=false
+/instance/org.tigris.subversion.subclipse.ui/pref_console_show_on_error=true
+/instance/org.tigris.subversion.subclipse.ui/pref_merge_provider=CollabNet Desktop
+/instance/org.tigris.subversion.subclipse.core/resursive_status_update=true
+/instance/org.tigris.subversion.subclipse.ui/pref_use_font_decorators=false
+/instance/org.tigris.subversion.subclipse.ui/pref_filetext_decoration={added_flag}{dirty_flag}{name} {revision}  {date}  {author}
+/instance/org.tigris.subversion.subclipse.ui/pref_foldertext_decoration={external_flag}{added_flag}{dirty_flag}{name} 
+/instance/org.tigris.subversion.subclipse.ui/pref_projecttext_decoration={dirty_flag}{name} [{url_short}]
+/instance/org.tigris.subversion.subclipse.ui/pref_dirty_flag=
+/instance/org.tigris.subversion.subclipse.ui/pref_added_flag=
+/instance/org.tigris.subversion.subclipse.ui/pref_external_flag=
+/instance/org.tigris.subversion.subclipse.ui/pref_calculate_dirty=true
+/instance/org.tigris.subversion.subclipse.ui/pref_show_overlaydirty=true
+/instance/org.tigris.subversion.subclipse.ui/pref_show_hasremote=true
+/instance/org.tigris.subversion.subclipse.ui/pref_show_added=true
+/instance/org.tigris.subversion.subclipse.ui/pref_show_newresource=true
+/instance/org.tigris.subversion.subclipse.ui/pref_show_external=true
+/instance/org.tigris.subversion.subclipse.ui/pref_menu_icon_set=1
+/instance/org.tigris.subversion.subclipse.tools.usage/allow_usage_report_preference=
+/instance/org.eclipse.team.svn.ui/firstStartup=false
+/instance/org.eclipse.team.svn.core/synch_info/contigous=true
+/instance/org.eclipse.team.svn.core/externalMigrateFromAuthorizationDatabase/isMigrated=true
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.first_time=false
+/instance/org.eclipse.team.svn.core/migrateFromAuthorizationDatabase/isMigrated=true
+

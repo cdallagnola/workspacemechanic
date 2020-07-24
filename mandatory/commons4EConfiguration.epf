@@ -1,0 +1,11 @@
+# @title commons4EConfiguration
+# @description Configure Commons4E
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Dec 08 19:05:34 CET 2011
+file_export_version=3.0
+/instance/org.jiayun.commons4e/cacheToString=false
+/instance/org.jiayun.commons4e/cacheHashCode=false
+/instance/org.jiayun.commons4e/useGettersInsteadOfFields=true
+

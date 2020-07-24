@@ -1,0 +1,11 @@
+# @title antConfiguration
+# @description ANT configuration
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Aug 30 14:41:22 CEST 2011
+file_export_version=3.0
+/instance/org.eclipse.ant.launching/timeout=20000
+/instance/org.eclipse.ant.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.ant.ui/useQuickDiffPrefPage=true
+

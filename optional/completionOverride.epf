@@ -1,0 +1,51 @@
+# @title Completion override
+# @description Completion override
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Mar 14 11:40:52 CET 2017
+/bundle_defaults/org.eclipse.ant.ui/ignoreAll=false
+/bundle_defaults/org.eclipse.ant.ui/problem_tasks=ignore
+/bundle_defaults/org.eclipse.ant.ui/org.eclipse.ant.ui.debugColor=0,0,0
+/bundle_defaults/org.eclipse.ant.ui/workspacejre=false
+/bundle_defaults/org.eclipse.ant.ui/toolsJAR=true
+/bundle_defaults/org.eclipse.ant.ui/org.eclipse.ant.ui.verboseColor=0,200,125
+/bundle_defaults/org.eclipse.ant.ui/org.eclipse.ant.ui.constantStringsColor=0,128,0
+/bundle_defaults/org.eclipse.ant.ui/editor_reconcile=true
+file_export_version=3.0
+/bundle_defaults/org.eclipse.ant.ui/org.eclipse.ant.ui.textColor=0,0,0
+/bundle_defaults/org.eclipse.ant.ui/errorDialog=true
+/bundle_defaults/org.eclipse.ant.ui/org.eclipse.ant.ui.informationColor=0,0,255
+/bundle_defaults/org.eclipse.ant.ui/anteditor.filterInternalTargets=false
+/instance/org.eclipse.jdt.ui/content_assist_insert_completion=false
+/bundle_defaults/org.eclipse.ant.ui/org.eclipse.ant.ui.tagsColor=0,0,128
+/bundle_defaults/org.eclipse.ant.ui/problem_imports=warning
+/bundle_defaults/org.eclipse.ant.ui/content_assist_userDefinedTasks=true
+/bundle_defaults/org.eclipse.ant.ui/formatter_tab_char=true
+/bundle_defaults/org.eclipse.ant.ui/editor_show_segments=false
+/bundle_defaults/org.eclipse.ant.ui/templates_use_codeformatter=true
+/bundle_defaults/org.eclipse.ant.ui/org.eclipse.ant.ui.dtdColor=128,0,0
+/bundle_defaults/org.eclipse.ant.ui/org.eclipse.ant.ui.warningColor=250,100,0
+/bundle_defaults/org.eclipse.ant.ui/content_assist_autoactivation_delay=0
+/bundle_defaults/org.eclipse.ant.ui/org.eclipse.ant.ui.processingInstructionsColor=128,128,128
+/bundle_defaults/org.eclipse.ant.ui/anteditor.filterImportedElements=false
+/bundle_defaults/org.eclipse.ant.ui/content_assist_autoactivation_triggers_java=<${
+/bundle_defaults/org.eclipse.ant.ui/org.eclipse.ant.ui.errorColor=255,0,0
+/bundle_defaults/org.eclipse.ant.ui/anteditor.filterProperties=false
+/instance/org.eclipse.recommenders.completion.rcp/sessionprocessors=org.eclipse.recommenders.subwords.rcp.sessionprocessors.subwords;org.eclipse.recommenders.mylyn.rcp.sessionprocessors.mylyn;org.eclipse.recommenders.calls.rcp.sessionprocessors.call;org.eclipse.recommenders.overrides.rcp.completion.processor;org.eclipse.recommenders.completion.rcp.sessionprocessors.baseRelevance;org.eclipse.recommenders.completion.rcp.sessionprocessors.tips;\!org.eclipse.recommenders.types.rcp.sessionprocessors.types;org.eclipse.recommenders.constructors.rcp.sessionprocessors.constructorCompletion
+/bundle_defaults/org.eclipse.ant.ui/formatter_wrap_long=false
+/bundle_defaults/org.eclipse.ant.ui/ant.findBuildFileNames=build.xml
+/bundle_defaults/org.eclipse.ant.ui/org.eclipse.ant.ui.commentsColor=128,0,0
+/bundle_defaults/org.eclipse.ant.ui/content_assist_autoactivation=true
+/bundle_defaults/org.eclipse.ant.ui/anteditor.filterTopLevel=false
+/bundle_defaults/org.eclipse.ant.ui/stickyOccurrences=true
+/bundle_defaults/org.eclipse.ant.ui/formatter_max_line_length=80
+/bundle_defaults/org.eclipse.ant.ui/problem_security=warning
+/bundle_defaults/org.eclipse.ant.ui/documentation.url=http\://ant.apache.org/manual
+/bundle_defaults/org.eclipse.ant.ui/content_assist_autoinsert=true
+/bundle_defaults/org.eclipse.ant.ui/formatter_align=false
+/bundle_defaults/org.eclipse.ant.ui/problem_classpath=warning
+/bundle_defaults/org.eclipse.ant.ui/formatter_tab_size=4
+/bundle_defaults/org.eclipse.ant.ui/problem_properties=ignore
+/bundle_defaults/org.eclipse.ant.ui/editor_mark_occurrences=false
+/bundle_defaults/org.eclipse.ant.ui/editor_folding_enabled=true

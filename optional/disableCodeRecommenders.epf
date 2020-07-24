@@ -1,0 +1,10 @@
+# @title disableCodeRecommenders
+# @description OPTIONAL - Disable Code Recommenders
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon Nov 03 16:23:41 CET 2014
+/instance/org.eclipse.jdt.ui/content_assist_category_order=org.eclipse.mylyn.java.ui.javaAllProposalCategory\:0\u0000org.eclipse.jdt.ui.templateProposalCategory\:1\u0000org.eclipse.jdt.ui.swtProposalCategory\:2\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\:65538\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\:65539\u0000org.eclipse.jdt.ui.textProposalCategory\:65540\u0000org.eclipse.jdt.ui.javaAllProposalCategory\:65541\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\:65542\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\:65543\u0000org.eclipse.recommenders.completion.rcp.proposalCategory.intelligent\:65544\u0000org.eclipse.pde.api.tools.ui.apitools_proposal_category\:10\u0000
+/instance/org.eclipse.jdt.ui/content_assist_disabled_computers=org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000org.eclipse.recommenders.completion.rcp.proposalCategory.intelligent\u0000
+file_export_version=3.0
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.timeoutForParameterNameFromAttachedJavadoc=50

@@ -1,0 +1,12 @@
+# @title atlassianConfiguration
+# @description Configure Atlassian
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Mar 02 11:27:30 CET 2012
+file_export_version=3.0
+/instance/com.atlassian.connector.eclipse.jira.ui/secure_storage.migration.done=true
+/instance/com.atlassian.connector.eclipse.monitor.ui/com.atlassian.connector.eclipse.monitor.usage.first.time=false
+/instance/com.atlassian.connector.eclipse.monitor.ui/com.atlassian.connector.eclipse.monitor.usage.enabled=
+/instance/com.atlassian.connector.eclipse.monitor.core/com.atlassian.connector.eclipse.monitor.usage.upload.previousTransmit=1314696815656
+

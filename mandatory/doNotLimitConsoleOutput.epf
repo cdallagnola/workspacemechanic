@@ -1,0 +1,8 @@
+# @title doNotLimitConsoleOutput
+# @description Do not limit console output
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Sep 29 14:21:36 CEST 2011
+file_export_version=3.0
+/instance/org.eclipse.debug.ui/Console.limitConsoleOutput=false

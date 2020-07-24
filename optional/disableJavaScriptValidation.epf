@@ -1,0 +1,9 @@
+# @title OPTIONAL - Disable JS validation
+# @description OPTIONAL - Disable JS validation
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Sep 30 14:48:29 CEST 2011
+file_export_version=3.0
+/instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.compiler.doc.comment.support=disabled
+/instance/org.eclipse.wst.jsdt.core/semanticValidation=disabled
